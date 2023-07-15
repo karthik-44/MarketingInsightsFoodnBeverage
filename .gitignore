@@ -6,7 +6,7 @@ __pycache__/
 ## not adding notebook file for now
 
 ## to be removed start
-*.ipynb
+MarketAnalysis.ipynb
 ## to be removed end
 
 # C extensions
