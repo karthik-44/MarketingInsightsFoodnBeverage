@@ -296,6 +296,4 @@ Typical_consumption_situations:  This column represents the response received fo
 		Driving/commuting
 		Other 
 
-K: This helps us designing the ad campaign
-
-------------------------------------------
+K: This helps us designing the ad campa
