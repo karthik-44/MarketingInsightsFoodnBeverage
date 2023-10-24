@@ -59,7 +59,7 @@ After combining these our data has **10000** rows, **29** columns.
 - Typical_consumption_situations
 
 
-A sample of the survey questionnaire can be found here.  
+A sample of the survey questionnaire can be found [here](./Survey_Questions_and_Response_Options.pdf) .  
 
 ### Data Cleaning
 A bit of data cleaning is necessary while doing analysis related to our brand. The reason for this is:
