@@ -12,5 +12,6 @@ As a marketing data analyst we are tasked to convert these survey results to mea
 
 Check the link for rendered plotly images: https://nbviewer.org/github/karthik-44/MarketingInsightsFoodnBeverage/blob/main/MarketAnalysis.ipynb  
 
-<iframe src="https://kvrkarthik.com/marketing-insights-of-codex/">Data distribution</iframe>
+<iframe src="./images/0_sunburst.html" width="WIDTH" height="HEIGHT"></iframe>
+
 
