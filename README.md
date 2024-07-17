@@ -10,7 +10,7 @@ product development.
 Survey was conducted in 10 cities and received results from 10k respondents.
 As a marketing data analyst we are tasked to convert these survey results to meaningful insights which the team can use to drive actions.  
 
-Check [here] (https://kvrkarthik.com/marketing-insights-of-codex/) for the blog.
+Check [here](https://kvrkarthik.com/marketing-insights-of-codex/) for the blog.
 
 Check the link for rendered plotly images: https://nbviewer.org/github/karthik-44/MarketingInsightsFoodnBeverage/blob/main/MarketAnalysis.ipynb    
 
