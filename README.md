@@ -8,9 +8,11 @@ brand awareness,
 market share,
 product development.
 Survey was conducted in 10 cities and received results from 10k respondents.
-As a marketing data analyst we are tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+As a marketing data analyst we are tasked to convert these survey results to meaningful insights which the team can use to drive actions.  
 
-Check the link for rendered plotly images: https://nbviewer.org/github/karthik-44/MarketingInsightsFoodnBeverage/blob/main/MarketAnalysis.ipynb  
+Check https://kvrkarthik.com/marketing-insights-of-codex/ for the blog.
+
+Check the link for rendered plotly images: https://nbviewer.org/github/karthik-44/MarketingInsightsFoodnBeverage/blob/main/MarketAnalysis.ipynb    
 
 ## Context
 CodeX is a company from Germany that makes drinks. They want to make their mark in India too. They started selling their energy drink in 10 Indian cities. They did a survey in these cities to find out if people like their brand. They got 10,000 responses to their survey questions.
